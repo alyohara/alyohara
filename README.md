@@ -80,7 +80,7 @@ University-focused management system for faculty positions, users, departments, 
 ### Fullstack To-Do App
 End-to-end app with JWT authentication, protected routes, and task lifecycle management.
 
-- Repository: https://github.com/alyohara/code_lunch_p3
+- Repository: https://github.com/alyohara/todo_app
 - Stack: React, Node.js, Express, SQLite
 - Impact: fullstack reference architecture for auth + CRUD patterns
 
