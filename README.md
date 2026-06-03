@@ -63,6 +63,13 @@ Full Stack Developer (Jan 2017 - Mar 2022)
 
 ## Featured Projects
 
+### Personal Website and Teaching Operations Platform
+Production-ready personal website and academic operations platform, combining public portfolio pages with private teaching workflows.
+
+- Repository: https://github.com/alyohara/personalPage
+- Stack: Laravel 12, Inertia.js, React, TypeScript, Tailwind CSS
+- Impact: single platform for professional presence, attendance workflows, blogging, and dashboard analytics
+
 ### QR Attendance System
 Production-oriented attendance platform with rotating QR tokens and professor PIN validation for virtual and in-person classes.
 
@@ -70,19 +77,19 @@ Production-oriented attendance platform with rotating QR tokens and professor PI
 - Stack: Laravel 12, PHP 8.2+, Blade, Tailwind CSS, Alpine.js, MySQL/MariaDB
 - Impact: secure attendance flow with anti-replay controls, reporting, and CSV exports
 
+### AyED Exams Repository
+Centralized repository of Algorithms and Data Structures exams designed for university cohorts, including topic tags and grading rubrics.
+
+- Repository: https://github.com/alyohara/examenes-ayed
+- Stack: Python, structured academic documentation
+- Impact: reusable and scalable teaching asset for assessment consistency and curriculum alignment
+
 ### UNaBSYSv3 - Academic Staff Management System
 University-focused management system for faculty positions, users, departments, and academic assignments.
 
 - Repository: https://github.com/alyohara/UNaBSYSv3
 - Stack: Laravel 10, Blade, MariaDB
 - Impact: role-based institutional workflow for teaching and administrative operations
-
-### Fullstack To-Do App
-End-to-end app with JWT authentication, protected routes, and task lifecycle management.
-
-- Repository: https://github.com/alyohara/todo_app
-- Stack: React, Node.js, Express, SQLite
-- Impact: fullstack reference architecture for auth + CRUD patterns
 
 ## Core Competencies
 
