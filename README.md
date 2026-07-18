@@ -63,6 +63,14 @@ Full Stack Developer (Jan 2017 - Mar 2022)
 
 ## Featured Projects
 
+### WOZ.exe — Data Structures Adventure
+SCUMM-style point-and-click game that teaches algorithms and data structures (stack, queue, hash, BFS, Union-Find, priority queue, trie, heap) through play. Runs on desktop (pygame-ce) and in the browser (pygbag / WebAssembly).
+
+- Play online: https://alyohara.github.io/woz-exe/
+- Repository: https://github.com/alyohara/woz-exe
+- Stack: Python, pygame-ce, pygbag, GitHub Actions / GitHub Pages
+- Impact: teaching asset for Algorithms & Data Structures with an interactive narrative format
+
 ### Personal Website and Teaching Operations Platform
 Production-ready personal website and academic operations platform, combining public portfolio pages with private teaching workflows.
 
@@ -95,6 +103,7 @@ University-focused management system for faculty positions, users, departments, 
 
 - Backend: PHP 8, Laravel, CodeIgniter, Python, Drupal 10
 - Frontend: JavaScript, React, Inertia.js, Vite, HTML5, CSS3, jQuery
+- Game / interactive: pygame-ce, pygbag (WebAssembly)
 - Databases: MySQL/MariaDB optimization (20M-60M+ records), SQLite
 - DevOps: Docker, Portainer, Nginx, Linux, GitHub Actions
 - Integration: REST APIs, healthcare interoperability, workflow automation
