@@ -63,6 +63,13 @@ Full Stack Developer (Jan 2017 - Mar 2022)
 
 ## Featured Projects
 
+### OpenSlides — Code-Slides with Image Layers
+Fork of OpenSlides (desktop tool that turns code into presentation slides with Magic Move transitions) that adds native image support: background images behind the code, freely positionable/resizable element layers on top, and image-only slides. Built with Rust/Tauri, released for macOS, Windows, and Linux with CI-built installers.
+
+- Repository: https://github.com/alyohara/OpenSlides
+- Stack: Rust (Tauri), Svelte 5, SQLite, GitHub Actions
+- Impact: presentation-ready slides that combine step-by-step code highlights with image storytelling
+
 ### WOZ.exe — Data Structures Adventure
 SCUMM-style point-and-click game that teaches algorithms and data structures (stack, queue, hash, BFS, Union-Find, priority queue, trie, heap) through play. Runs on desktop (pygame-ce) and in the browser (pygbag / WebAssembly).
 
