@@ -70,6 +70,13 @@ Fork of OpenSlides (desktop tool that turns code into presentation slides with M
 - Stack: Rust (Tauri), Svelte 5, SQLite, GitHub Actions
 - Impact: presentation-ready slides that combine step-by-step code highlights with image storytelling
 
+### DevSlides Online — Self-Hosted Slides Editor for Developers
+Full-stack web evolution of the slides editor: write slides in a code editor with live preview and present them from the browser. Runs in a single Bun process (REST API + built SPA), with per-user accounts and session auth over a single SQLite file. Packaged as a Docker image deployable on CasaOS or any Docker host.
+
+- Repository: https://github.com/alyohara/DevSlidesOnline
+- Stack: Bun, Hono, Svelte 5, TypeScript, shiki, SQLite, Docker, GitHub Actions
+- Impact: 100% self-hosted with no cloud dependency — presentations live on your own server
+
 ### WOZ.exe — Data Structures Adventure
 SCUMM-style point-and-click game that teaches algorithms and data structures (stack, queue, hash, BFS, Union-Find, priority queue, trie, heap) through play. Runs on desktop (pygame-ce) and in the browser (pygbag / WebAssembly).
 
